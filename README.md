@@ -4,7 +4,23 @@
 </p>
  
 
-<h4 align="center">Soy Tomás Gonzalez Zingales, estudiante de "Licenciatura en Sistemas" en la UNLP.   </h4>
+<h3 align="center">Soy Tomás Gonzalez Zingales    </h3>
+<h4 align="center">Estudiante de "Licenciatura en Sistemas" en la UNLP.   </h4>
+<h4 align="center">Desarrollador FullStack Web    </h4>
+<h4 align="center">Coordinador Informatico en Indec EPH , Especializado en Backend PHP y Sql Oracle   </h4>
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
 
  
 - 📫 Informacion de contacto **tomasgonzlp@gmail.com**
