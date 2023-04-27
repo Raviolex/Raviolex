@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://giphy.com/gifs/cowboy-bebop-ed-udhngZK2IFTc4"/>
+  <img align="center" src="https://giphy.com/gifs/cowboy-bebop-ed-udhngZK2IFTc4](https://preview.redd.it/vjwflvbfrlp51.gif?format=mp4&v=enabled&s=9bcc26553d142b2bb810c74836a6afbe1cf96309"/>
 </p>
  
 
