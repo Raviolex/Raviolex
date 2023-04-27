@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola!👋</h1>
+ <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://giphy.com/gifs/cowboy-bebop-ed-udhngZK2IFTc4](https://preview.redd.it/vjwflvbfrlp51.gif?format=mp4&v=enabled&s=9bcc26553d142b2bb810c74836a6afbe1cf96309"/>
+  <img align="center" src="https://giphy.com/gifs/cowboy-bebop-ed-udhngZK2IFTc4"/>
 </p>
  
 
@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/tomasgonzalezzing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomasgonzalezzing" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/tomagzdv/" target="blank"><img align="center" src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin" alt="tomasgonzalezzing" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomagzdv/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="tomasgonzalezzing" height="30" width="40" /></a>
 </p>
 
 
