@@ -1,6 +1,6 @@
  <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2OTM0Zjk1ZWNiODQ3OWE3ZDNhZGZkMzkwZjJkMDgzYWI1MTZhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/udhngZK2IFTc4/giphy.mp4"/>
+  <img align="center" src="https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif"/>
 </p>
  
 
